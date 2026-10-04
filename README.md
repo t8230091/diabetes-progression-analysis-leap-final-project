@@ -1,4 +1,4 @@
-# diabetes-progression-analysis-leap-final-project
+# Diabetes Progression Analysis
 # Final Project Portfolio: Understanding Diabetes Progression
 
 **Project Scenario:** Option 1 (Diabetes Progression)
