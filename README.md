@@ -14,7 +14,7 @@ This portfolio investigates a health dataset of 442 patients. The analysis workf
 
 ## Included Files
 1. **diabetes_progression_analysis.R:** The complete, reproducible R script used for data preparation, visualization, and modeling.
-2. **Analytical_Report.pdf:** A detailed, 4-6 page equivalent PDF answering the project's six analytical questions.
+2. **Analytical_Report_Scenario1.pdf:** A detailed, 4-6 page equivalent PDF answering the project's six analytical questions.
 3. **Presentation.pdf:** A 6-slide executive presentation translating the statistical findings into actionable clinical insights for non-technical stakeholders.
 
 ## Reflection
