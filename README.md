@@ -15,7 +15,7 @@ This portfolio investigates a health dataset of 442 patients. The analysis workf
 ## Included Files
 1. **diabetes_progression_analysis.R:** The complete, reproducible R script used for data preparation, visualization, and modeling.
 2. **Analytical_Report_Scenario1.pdf:** A detailed, 4-6 page equivalent PDF answering the project's six analytical questions.
-3. **Presentation.pdf:** A 6-slide executive presentation translating the statistical findings into actionable clinical insights for non-technical stakeholders.
+3. **Presentation_Diabetes Progression.pdf:** A 6-slide executive presentation translating the statistical findings into actionable clinical insights for non-technical stakeholders.
 
 ## Reflection
 This project highlighted the importance of moving beyond single-variable analysis. While BMI was a strong predictor on its own, learning to implement and interpret multiple linear regression provided a much more realistic, multi-faceted view of patient health. If I had more time, I would explore non-linear transformations for the skewed variables and attempt to apply machine learning classification to separate patients into distinct "high risk" and "low risk" categories.
